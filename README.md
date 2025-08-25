@@ -24,6 +24,7 @@ Water 💧 drowns Gun 🔫 (Water wins)
 Play again: You'll be asked if you want to play another round. Just type 'y' to continue or 'n' to quit.
 
 Features
+
 1)Simple Command-Line Interface: Easy to run and play in any terminal.
 
 2)Player vs. Computer: Play against a computer that makes a random choice each round.
