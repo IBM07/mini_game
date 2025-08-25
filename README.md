@@ -34,6 +34,7 @@ Features
 4)Input Validation: The game ensures you enter a valid number for your choice.
 
 Requirements
+
 Python: You need to have Python installed on your computer. The game was built using Python 3.
 
 No additional libraries are needed. All the code is self-contained.
