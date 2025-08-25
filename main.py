@@ -1,11 +1,3 @@
-# --------------------------------------------
-# Snake, Water, Gun Game in Python
-# --------------------------------------------
-# Key Learnings from This Project:
-# 1) Dictionaries in Python allow us to map keys to values and retrieve values using keys.
-# 2) Use of the 'random' module to introduce unpredictability in gameplay.
-# --------------------------------------------
-
 import random 
 
 computer_score = 0
@@ -76,3 +68,4 @@ elif player_score < computer_score:
     print("Computer Has Won!")
 elif player_score == computer_score:
     print("Game ended in a Draw — Equal Scores!")
+
